@@ -17,6 +17,7 @@ So that's why in 2024 I decided further pursue knowledge in web development afte
 - Python
 - JavaScript
 - HTML&CSS
+- C++
 
 ### Frameworks/Libraries
 - Flask
