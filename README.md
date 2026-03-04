@@ -36,7 +36,7 @@ So that's why in 2024 I decided further pursue knowledge in web development afte
 - I love Music and know how to play guitar and bass. Also know a little bit about music production (I have two original songs that I made during the 2019 pandemic (check my [YouTube](https://www.youtube.com/@alanbitts))
 - [My Gallery](https://alanbitts-gallery.netlify.app/)
 
-[![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/AlanBitts?tab=repositories)  
+[![Rui-Viveiros stats](https://github-readme-stats.vercel.app/api?username=rui-viveiros&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/rui-viveiros?tab=repositories)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rui-viveiros&theme=monokai&hide_title=true&layout=pie&card_width=310)](https://github.com/rui-viveiros?tab=repositories)
 
 
