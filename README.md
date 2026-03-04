@@ -1,6 +1,5 @@
 # About me 
 Greetings, dear internauts,  
-I am Rui Viveiros.
 
 I had several non tech jobs before getting here, such as: bartender, hotel recepcionist, IT technician, communication assistant and convinience store operator (not _smooth operator_, unfortunately)
 All those jobs made me realise that I do not want to do repetitive tasks for the rest of my life... I want to build/automate things! I want to contribute for a better Internet! I want help people/businesses grow online!
@@ -38,10 +37,8 @@ So that's why in 2024 I decided further pursue knowledge in web development afte
 - [My Gallery](https://alanbitts-gallery.netlify.app/)
 
 [![AlanBitts stats](https://github-readme-stats.vercel.app/api?username=AlanBitts&show_icons=true&theme=monokai&hide_rank=true&hide_title=true)](https://github.com/AlanBitts?tab=repositories)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanBitts&theme=monokai&hide_title=true&layout=pie&card_width=310)](https://github.com/AlanBitts?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rui-viveiros&theme=monokai&hide_title=true&layout=pie&card_width=310)](https://github.com/rui-viveiros?tab=repositories)
 
-# Socials
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/alanbitts/) 
 
 <!---
 AlanBitts/AlanBitts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
