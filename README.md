@@ -17,6 +17,7 @@ So that's why in 2024 I decided further pursue knowledge in web development afte
 - JavaScript
 - HTML&CSS
 - C++
+- AI agent coding
 
 ### Frameworks/Libraries
 <!---- Flask -->
@@ -27,8 +28,8 @@ So that's why in 2024 I decided further pursue knowledge in web development afte
 - React.js
 
 ### Tools I use
-- VScode
-- Vim
+- Ollama
+- OpenClaw
 <!--- Jupyter Lab --->
 
 
